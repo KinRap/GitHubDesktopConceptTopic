@@ -14,7 +14,7 @@ Located at the top of the screen, next to GitHub logo, contains elements such as
 
 | Element | Description   |
 | ------- | -----------   |
-| File | |
+| File | You can create new repository, add repository from your computer or clone repository here. You can also manage options here or close the window.|
 | Edit | |
 | View | |
 | Repository| |
