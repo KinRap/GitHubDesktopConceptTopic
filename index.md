@@ -10,7 +10,7 @@ The following concept topic presents an overview of the repository main page in 
 
 ### 1. Menu Bar
 
-Located at the top of the screen, next to GitHub logo. Menu Bar contains elements such as: 
+Located at the top of the screen, next to GitHub logo, contains elements such as: 
 
 | Element | Description   |
 | ------- | -----------   |
@@ -23,7 +23,14 @@ Located at the top of the screen, next to GitHub logo. Menu Bar contains element
 
 ### 2. Repository Bar
 
-Located  at the top of the screen, under **Menu Bar**
+Located  at the top of a screen, under **The Menu Bar**, shows current state of repository. It contains such elements as:
+
+| Element   | Description   |
+| -------   | -----------   |
+| Current Repository | |
+| Branch | |
+| Publish Repository ||
+
 
 ### 3. Left Sidebar 
 
