@@ -27,15 +27,16 @@ Located  at the top of a screen, under **The Menu Bar**, shows current state of 
 
 | Element   | Description   |
 | -------   | -----------   |
-| Current Repository | |
-| Branch | |
+| Current Repository | Displays the name of the repository you are currently working on. Clicking on 'Current repository' allows you to change to a different repository. |
+| Branch | Displays the name of the branch you are currently working on. Clicking on "branch' allows you to change a branch ora create new one. |
 | Publish Repository ||
 
 
 ### 3. Sidebar 
 
+Located on the left side of a screen show changes 
 
 
-### 4. Changes
+### 4. Changes/History View
 
 ## Summary
