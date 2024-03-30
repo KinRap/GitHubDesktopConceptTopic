@@ -29,9 +29,7 @@ Located  at the top of a screen, under **The Menu Bar**, shows current state of 
 | -------   | -----------   |
 | Current Repository | Displays the name of the repository you are currently working on. Clicking on 'Current repository' allows you to change to a different repository. |
 | Branch | Displays the name of the branch you are currently working on. Clicking on "Branch' allows you to change a branch ora create new one. |
-| Fetch origin | This segment of the toolbar will adapt based on the status of your current branch and repository. Contextual actions will appear, providing options to exchange data between your local and remote repositories. Possible options:
-*Fetch origin* - means that you can retreive from the published repository.
-*Push origin* - means that you can push changes to the origin repository |
+| Fetch origin | This segment of the toolbar will adapt based on the status of your current branch and repository. Contextual actions will appear, providing options to exchange data between your local and remote repositories. Possible options: *Fetch origin* - means that you can retreive from the published repository. *Push origin* - means that you can push changes to the origin repository |
 
 
 ### 3. Sidebar 
