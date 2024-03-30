@@ -1,4 +1,4 @@
-# GitHub Desktop Repository Main Page Overview 
+# GitHub Desktop - Published Repository Main Page Overview 
 
 ## Introduction
 
@@ -28,7 +28,7 @@ Located  at the top of a screen, under **The Menu Bar**, shows current state of 
 | Element   | Description   |
 | -------   | -----------   |
 | Current Repository | Displays the name of the repository you are currently working on. Clicking on 'Current repository' allows you to change to a different repository. |
-| Branch | Displays the name of the branch you are currently working on. Clicking on "branch' allows you to change a branch ora create new one. |
+| Branch | Displays the name of the branch you are currently working on. Clicking on "Branch' allows you to change a branch ora create new one. |
 | Fetch origin ||
 
 
