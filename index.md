@@ -46,6 +46,6 @@ Located on the left side of a screen show changes that you made in your local re
 
 ### 4. Changes/History View
 
-Located in the middle of the screen. It offers recommendations for potential next actions.
+Located in the middle of the screen. It offers recommendations for potential next actions. In History it shows changed files. 
 
 ### Summary
