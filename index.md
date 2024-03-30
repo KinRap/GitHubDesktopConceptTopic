@@ -21,11 +21,9 @@ Located at the top of the screen, next to GitHub logo. Menu Bar contains element
 | Branch | |
 | Help | |
 
-
-
-
-
 ### 2. Repository Bar
+
+Located  at the top of the screen, under **Menu Bar**
 
 ### 3. Left Sidebar 
 
