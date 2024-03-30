@@ -32,7 +32,9 @@ Located  at the top of a screen, under **The Menu Bar**, shows current state of 
 | Publish Repository ||
 
 
-### 3. Left Sidebar 
+### 3. Sidebar 
+
+
 
 ### 4. Changes
 
