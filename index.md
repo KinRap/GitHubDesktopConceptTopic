@@ -49,3 +49,5 @@ Located on the left side of a screen show changes that you made in your local re
 Located in the middle of the screen. It offers recommendations for potential next actions. In History it shows changed files. 
 
 ### Summary
+
+Github Desktop is a very intuitive tool. It has a user-friendly interface, but you can also use it via keyboard shortcuts.
