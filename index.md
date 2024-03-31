@@ -18,8 +18,8 @@ Located at the top of the screen, next to GitHub logo, contains elements such as
 | Edit | You can modify your changes here by clicking: *Undo*, *Redo*, *Cut*, *Copy*, *Paste*, *Select All*, *Find*.    |
 | View | You can click here if you want to see: *Changes*, *History*, *Repository List*, *Branches List*, *Summary*, *Stashed changes*, or resize window. |
 | Repository| You can Push, Pull, Fetch or remove changes here. You can also open the repository using various tools, create issue or change repository settings. |
-| Branch | |
-| Help | |
+| Branch | It helps you with different options of branches.|
+| Help | This toolbar show different kind of help that you can get. |
 
 ### 2. Repository Bar
 
